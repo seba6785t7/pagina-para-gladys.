@@ -2,28 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>isabel</title>
-
-<style>
-body{
-background-color:pink;
-font-family:Arial;
-text-align:center;
-}
-
-h1{
-color:red;
-}
-
-p{
-font-size:20px;
-}
-</style>
-
 </head>
-
 <body>
-
 <h1>Para pelona hermosaaaaaa ❤️</h1>
 
 <p>Esta página es solo para ti.</p>
